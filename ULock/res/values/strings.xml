@@ -4,5 +4,8 @@
     <string name="app_name">ULock</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="first">First</string>
+    <string name="last">Last</string>
+    <string name="hint">This is the users App</string>
 
 </resources>
